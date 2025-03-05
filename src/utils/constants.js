@@ -1,5 +1,6 @@
 import { faInstagram, faTiktok } from '@fortawesome/free-brands-svg-icons'
 
+
 export const navbarLinks = [
     {
         id: 1,
@@ -38,3 +39,10 @@ export const nabvarRedes = [
         icon: faTiktok
     }
 ]
+
+
+export const images = [
+      "src/assets/paisaje1.png",
+      "src/assets/paisaje2.jpg",
+      "src/assets/paisaje1.png",
+    ];
