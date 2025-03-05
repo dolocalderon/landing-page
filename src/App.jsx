@@ -1,11 +1,12 @@
+import HeroSection from "./components/HeroSection"
 import Navbar from "./navbar/Navbar"
-import Offer from "./components/offer"
+
 
 function App() {
   return (
     <div>
-      {/* <Navbar></Navbar> */}
-      <Offer></Offer>
+      <Navbar></Navbar>
+      <HeroSection></HeroSection>
      </div>
   )
 }
